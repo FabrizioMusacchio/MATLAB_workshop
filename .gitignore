@@ -1,1 +1,4 @@
 *.png
+*.zip
+/Archive
+/generateRandomSignals.m
